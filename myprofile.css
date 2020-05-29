@@ -1,0 +1,79 @@
+div{
+    padding: 15px;
+}
+#design{
+    font-family: serif;
+    background-color: rgb(135, 147, 253);
+    padding: 35px;
+}
+#design h1 {
+    color: #FA08C5;
+    padding: 20px;
+    background-color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+#design h3 {
+    font-size: 20px;
+    color: white;
+    border-bottom: 4px solid #FA08C5;
+    
+}
+.diff {
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #FA08C5;
+    padding: 10px;
+    margin-left: auto;
+    width: auto;
+}
+h2 {
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#design article h2 {
+    color: #E6D377;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#design p {
+    color: white;
+    padding-bottom: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+ol,ul {
+    color: white;
+    padding: 7px;
+}
+li{
+    padding: 3px;
+    margin-left: 15px;
+    
+}
+#box{
+    border: 5px solid #E6D377;
+    margin: 30px;
+    margin-bottom: 15px;
+    padding: 20px;
+}
+
+#boxfood{
+    border:5px solid #E6D377;
+    margin: 20px;
+}
+#boxweb{
+    border:5px solid #E6D377;
+    margin: 20px;
+}
+li:hover{
+background-color: #E660D1;
+color: white;
+}
+a:link{
+    color: #99488C;
+}
+a:active{
+    color:#E660D1;
+}
